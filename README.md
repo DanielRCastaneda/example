@@ -1,3 +1,1 @@
- Hello World 
-
- This is my reame for my first project
+How to get fizz and buzz on numbers multiples of 3 and 5
